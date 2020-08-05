@@ -1,5 +1,5 @@
 // “powered by ecomplato carros”
-const BASE_URL = 'http://localhost/guarda-tarefa'; //TODO : Desenvolvimento
+// const BASE_URL = 'http://localhost/guarda-tarefa'; //TODO : Desenvolvimento
 const BASE_URL = 'https://querocriarsite.com/projetos/tarefas/'; //TODO : Produção
 const CACHE_NAME = 'guardatarefas_v0';
 const STATIC_FILES = [
